@@ -38,3 +38,4 @@ This app is connected to a MongoDB database which allows for CRUD implementation
   nodemon app.js
   ```
 3. Make sure to register at MongoDB and create your own database [here](https://www.mongodb.com/)
+4. Visit the live version [here](https://murmuring-hollows-67781.herokuapp.com/)
