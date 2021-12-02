@@ -1,7 +1,7 @@
 # Todo-List-v2
 
 ## Gif Demo
-![todo-list](Readme/todolist-gif.gif)
+![todo-list](Readme/todo-list.gif)
 
 ## Introduction
 
